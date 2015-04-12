@@ -8,8 +8,8 @@ and this is .exe file : https://drive.google.com/open?id=0B1sVDp9Im8bgflJRQl95bV
 ### Info
 
 * This game is created in GameMaker Studio (v. 1.99.344)
-* If you want to edit this project you need GMS in Professional Edition at least.
-* I will appreciate everyone who wants to improve this game in some way.
+* If you want to edit this project you will need GMS in Professional Edition at least.
+* I appreciate everyone who wants to improve this game in some way.
 
 ###Copyright and License
 
